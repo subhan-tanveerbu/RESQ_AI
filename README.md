@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RESQ AI — Intelligent Autonomous Rescue Agent Using Reinforcement Learning
 
 A university CCP starter implementation using Python, Pygame, Streamlit and PyTorch.
@@ -162,3 +163,6 @@ Never report illustrative dashboard values as results. Report only values genera
 - known limitations.
 
 The current rule-based baseline is a simple heuristic and the reward function is a starting point. Analyze results honestly and improve the environment/agent based on evidence.
+=======
+# RESQ_AI
+>>>>>>> 5ae8867072cb16fb98dacc4bf63764bd27d88f08
