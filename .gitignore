@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/training_logs/*
+data/evaluation_results/*
+models/checkpoints/*
+models/best_model/*
+!data/training_logs/.gitkeep
+!data/evaluation_results/.gitkeep
+!models/checkpoints/.gitkeep
+!models/best_model/.gitkeep

@@ -1,0 +1,15 @@
+{
+  "map_size": 10,
+  "victim_count": 6,
+  "max_steps": 250,
+  "initial_energy": 100,
+  "initial_health": 100,
+  "carrying_capacity": 2,
+  "fire_count": 2,
+  "gas_count": 2,
+  "rubble_count": 12,
+  "hazard_spread_interval": 18,
+  "aftershock_interval": 55,
+  "seed": 7,
+  "difficulty": "normal"
+}
